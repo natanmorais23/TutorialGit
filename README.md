@@ -72,15 +72,15 @@
 
 ## COMANDOS IMPORTANTES (BÔNUS)
 
-git status
-clear
-cd pasta
+- git status
+- clear
+- cd pasta
 
 * os conceitos de fork e pull request também são importantes, porém se faz pelo próprio github
 
 -------
 
-fontes:
-(https://github.com/rafaballerini/GitTutorial)
-(https://youtu.be/DqTITcMq68k)
-(https://youtu.be/UBAX-13g8OM)
+## FONTES:
+* (https://github.com/rafaballerini/GitTutorial)
+* (https://youtu.be/DqTITcMq68k)
+* (https://youtu.be/UBAX-13g8OM)
