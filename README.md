@@ -1,6 +1,6 @@
 # TutorialGit
 
-CRIAR REPOSITÓRIO DO 0 E UPAR O PROJETO DA MÁQUINA LOCAL
+## CRIAR REPOSITÓRIO DO 0 E UPAR O PROJETO DA MÁQUINA LOCAL
 
 1. git init
 2. git add .
@@ -15,7 +15,7 @@ CRIAR REPOSITÓRIO DO 0 E UPAR O PROJETO DA MÁQUINA LOCAL
 
 -------
 
-UPAR AS ALTERAÇÕES LOCAIS NO REPOSITÓRIO
+## UPAR AS ALTERAÇÕES LOCAIS NO REPOSITÓRIO
 
 1. git add .
 2. git commit -m "mensagem"
@@ -25,7 +25,7 @@ UPAR AS ALTERAÇÕES LOCAIS NO REPOSITÓRIO
 
 -------
 
-CRIAR UMA BRANCH E UPAR AS ALTERAÇÕES
+## CRIAR UMA BRANCH E UPAR AS ALTERAÇÕES
 
 1. git checkout -b "nomedanovabranch"
 2. git add .
@@ -36,7 +36,7 @@ CRIAR UMA BRANCH E UPAR AS ALTERAÇÕES
 
 -------
 
-ALTERNAR ENTRE AS BRANCHES
+## ALTERNAR ENTRE AS BRANCHES
 
 1. git checkout main
 2. git checkout nomedanovabranch
@@ -45,7 +45,7 @@ ALTERNAR ENTRE AS BRANCHES
 
 -------
 
-PASSAR A BRANCH CRIADA PARA A BRANCH PRINCIPAL(MAIN)
+ ## PASSAR A BRANCH CRIADA PARA A BRANCH PRINCIPAL(MAIN)
 
 1. git checkout main
 2. git merge nomedanovabranch
@@ -55,7 +55,7 @@ PASSAR A BRANCH CRIADA PARA A BRANCH PRINCIPAL(MAIN)
 
 -------
 
-PEGAR OS ARQUIVOS DO PROJETO PELA PRIMEIRA VEZ
+## PEGAR OS ARQUIVOS DO PROJETO PELA PRIMEIRA VEZ
 
 1. git clone linkdorepositorio
 
@@ -63,14 +63,14 @@ PEGAR OS ARQUIVOS DO PROJETO PELA PRIMEIRA VEZ
 
 -------
 
-PEGAR AS NOVAS ALTERAÇÕES DO PROJETO DEPOIS DE CLONAR
+## PEGAR AS NOVAS ALTERAÇÕES DO PROJETO DEPOIS DE CLONAR
 
 1. git checkout main
 2. git pull
 
 -------
 
-COMANDOS IMPORTANTES (BÔNUS)
+## COMANDOS IMPORTANTES (BÔNUS)
 
 git status
 clear
@@ -81,6 +81,6 @@ cd pasta
 -------
 
 fontes:
-https://github.com/rafaballerini/GitTutorial
-https://youtu.be/DqTITcMq68k
-https://youtu.be/UBAX-13g8OM
+(https://github.com/rafaballerini/GitTutorial)
+(https://youtu.be/DqTITcMq68k)
+(https://youtu.be/UBAX-13g8OM)
